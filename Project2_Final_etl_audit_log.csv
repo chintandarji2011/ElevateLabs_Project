@@ -1,0 +1,3 @@
+log_id,action,affected_table,inserted_row,run_time
+26,Data Load,employees,4,2025-07-18 10:27:47.809329
+27,Data Load,employees,3,2025-07-18 10:28:04.89357

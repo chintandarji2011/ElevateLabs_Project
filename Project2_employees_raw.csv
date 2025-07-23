@@ -1,0 +1,7 @@
+id,name,age,department,salary
+101,John Doe,29,Sales,55000
+102,Jane Smith,31,Marketing,62000
+103,Robert Brown,,IT,58000
+104,Emily White,27,HR,60000
+102,Jane Smith,31,Marketing,62000
+,Chris Black,34,Finance,61000
