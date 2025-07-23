@@ -1,6 +1,6 @@
 # ElevateLabs_Project_submission
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Project2_SQL_ETL_pipeline_Solution
+# Project2_SQL_ETL_pipeline_Solution (With Report)(Main Project)
 Author: Darji Chintankumar Dineshchandra
 
 ---
